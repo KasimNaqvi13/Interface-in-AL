@@ -1,4 +1,4 @@
-codeunit 50603 "Demo Curr. Exch. Permiss. Mgt."
+codeunit 50601 "Demo BC Permission Checker" implements "Demo IPermissionChecker"
 {
     procedure CanConvert(UserID: Text[50]; FromCurrencyCode: Code[10]; ToCurrencyCode: Code[10]): Boolean
     var
