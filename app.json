@@ -1,0 +1,41 @@
+{
+  "id": "8e7de72f-7f95-4462-903a-58946e0f5bad",
+  "name": "Projects",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+
+    {
+      "id": "37dae6ab-a9c0-43ef-b1cc-64e7898adcc9",
+      "name": "Interface",
+      "publisher": "Default Publisher",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50099
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.1",
+  "target": "OnPrem",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
