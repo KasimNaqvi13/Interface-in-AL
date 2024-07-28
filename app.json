@@ -1,5 +1,5 @@
 {
-  "id": "8e7de72f-7f95-4462-903a-58946e0f5bad",
+  "id": "8e7de72f-7f95-4462-903a-58946e0f5ba7",
   "name": "Projects",
   "publisher": "Interface App 2",
   "version": "1.0.0.0",
@@ -24,8 +24,8 @@
   "application": "24.0.0.0",
   "idRanges": [
     {
-      "from": 50000,
-      "to": 50099
+      "from": 60000,
+      "to": 60099
     }
   ],
   "resourceExposurePolicy": {
