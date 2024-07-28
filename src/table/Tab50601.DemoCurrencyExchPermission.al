@@ -1,4 +1,4 @@
-table 50101 "Demo Currency Exch. Permission"
+table 50601 "Demo Currency Exch. Permission"
 {
     Caption = 'Currency Exchange Permission';
 

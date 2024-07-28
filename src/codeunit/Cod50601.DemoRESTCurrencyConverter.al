@@ -1,4 +1,4 @@
-codeunit 50104 "Demo REST Currency Converter" implements "Demo IConverter"
+codeunit 50601 "Demo REST Currency Converter" implements "Demo IConverter"
 {
     procedure Convert(Amount: Decimal; FromCurrencyCode: Code[10]; ToCurrencyCode: Code[10]): Decimal
     var

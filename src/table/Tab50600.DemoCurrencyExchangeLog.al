@@ -1,4 +1,4 @@
-table 50100 "Demo Currency Exchange Log"
+table 50600 "Demo Currency Exchange Log"
 {
     Caption = 'Currency Exchange Log';
 

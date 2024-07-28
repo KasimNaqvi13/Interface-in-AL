@@ -1,5 +1,5 @@
 {
-  "id": "37dae6ab-a9c0-43ef-b1cc-64e7898adcc9",
+  "id": "37dae6ab-a9c0-43ef-b1cc-64e7898adcc7",
   "name": "Interface",
   "publisher": "Default Publisher",
   "version": "1.0.0.0",
@@ -16,8 +16,8 @@
   "application": "24.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50500
+      "from": 50600,
+      "to": 50700
     }
   ],
   "resourceExposurePolicy": {

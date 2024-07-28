@@ -1,4 +1,4 @@
-page 50100 "Demo Currency Exchange Log"
+page 50600 "Demo Currency Exchange Log"
 {
     Caption = 'Currency Exchange Log';
     PageType = List;

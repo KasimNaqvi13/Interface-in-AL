@@ -1,4 +1,4 @@
-table 50102 "Demo Currency Exchange Setup"
+table 50602 "Demo Currency Exchange Setup"
 {
     Caption = 'Currency Exchange Setup';
 

@@ -1,4 +1,4 @@
-codeunit 50100 "Demo Exchange Rate Management"
+codeunit 50604 "Demo Exchange Rate Management"
 {
     procedure Convert(Amount: Decimal; FromCurrencyCode: Code[10]; ToCurrencyCode: Code[10]) Result: Decimal
     var

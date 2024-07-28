@@ -1,4 +1,4 @@
-enum 50100 "Demo Permission Type"
+enum 50600 "Demo Permission Type"
 {
     Extensible = false;
 

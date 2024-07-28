@@ -1,4 +1,4 @@
-codeunit 50101 "Demo Curr. Exch. Permiss. Mgt."
+codeunit 50603 "Demo Curr. Exch. Permiss. Mgt."
 {
     procedure CanConvert(UserID: Text[50]; FromCurrencyCode: Code[10]; ToCurrencyCode: Code[10]): Boolean
     var

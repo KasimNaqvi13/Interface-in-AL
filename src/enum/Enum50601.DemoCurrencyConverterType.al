@@ -1,4 +1,4 @@
-enum 50101 "Demo Currency Converter Type" implements "Demo IConverter"
+enum 50601 "Demo Currency Converter Type" implements "Demo IConverter"
 {
     Extensible = true;
 

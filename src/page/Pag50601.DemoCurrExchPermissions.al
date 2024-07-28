@@ -1,4 +1,4 @@
-page 50101 "Demo Curr. Exch. Permissions"
+page 50601 "Demo Curr. Exch. Permissions"
 {
     Caption = 'Currency Exchange Permissions';
     PageType = List;

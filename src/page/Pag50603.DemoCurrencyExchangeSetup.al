@@ -1,4 +1,4 @@
-page 50103 "Demo Currency Exchange Setup"
+page 50603 "Demo Currency Exchange Setup"
 {
     Caption = 'Currency Exchange Setup';
     PageType = Card;
