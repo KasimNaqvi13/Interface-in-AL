@@ -3,6 +3,7 @@ page 60000 PaymentManagerPage
     PageType = Card;
     SourceTable = Customer; // Use any existing table or create a dummy table
     ApplicationArea = All;
+    UsageCategory = Documents;
 
     layout
     {
