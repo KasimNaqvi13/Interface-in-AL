@@ -22,7 +22,7 @@ page 50603 "Demo Currency Exchange Setup"
 
     trigger OnOpenPage()
     begin
-        if not Rec.Get() then
-            Rec.Insert();
+        // if not Rec.Get() then
+        //     Rec.Insert();
     end;
 }
