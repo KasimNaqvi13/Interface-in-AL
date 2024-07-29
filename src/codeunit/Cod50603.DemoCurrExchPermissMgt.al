@@ -18,7 +18,7 @@ codeunit 50603 "Demo Curr. Exch. Permiss. Mgt."
                 exit(false);
         until Permission.Next() = 0;
 
-        // No explicit Deny means that only Allow permissions exist
+        // No Deny means that only Allow permissions exist
         exit(true);
     end;
 }
